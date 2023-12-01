@@ -1,0 +1,16 @@
+.film {
+    cursor: pointer;
+    transition: transform .2s
+}
+.film:hover {
+    transform: scale(1.5); 
+}
+
+footer {
+    margin-top: 7rem;
+}
+
+.editProfile button:hover {
+    background-color: white;
+    color: black;
+}
